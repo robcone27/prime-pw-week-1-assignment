@@ -1,7 +1,25 @@
+body{
 /* Give your page a fun background color */
+background-color: green;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
 
+header{
+  color: yellow;
+  background-color: purple;
+  text-align: center;
+}
 /* Make the header and footer a different color from the background */
-
+footer{
+  color: yellow;
+  background-color: purple;
+  font-style: italic;
+}
+img{
+  border: 8px solid purple;
+  width: 300px;
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
